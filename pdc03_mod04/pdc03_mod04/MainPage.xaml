@@ -6,6 +6,9 @@
     <StackLayout>
         <Button Text="Activity01-ListView" Clicked="OpenActivity01"/>
         <Button Text="Activity02-ListView-Binded" Clicked="OpenActivity02"/>
+        <Button Text="Activity03-Naviagtion" Clicked="OpenActivity03"/>
+        <Button Text="Activity04-Carousel" Clicked="OpenActivity04"/>
+        <Button Text="Activity05-ListView-PassData" Clicked="OpenActivity05"/>
     </StackLayout>
 
 </ContentPage>
